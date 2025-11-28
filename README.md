@@ -22,7 +22,7 @@ The Interface (Dark Mode):
 </p>
 Before vs. After:
 <p align="center">
-<img src="assets/before_organisation.png" width="600" title="App Interface">
+<img src="./assets/before_organisation .png" width="600" title="App Interface">
 </p>
 
 <p align="center">
