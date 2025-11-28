@@ -37,7 +37,7 @@ Download SmartOrganizer_Setup_v1.exe.
 Install and run!
 Option B: From Source (Developers)
 Clone the repository:
-git clone [https://github.com/YOUR_USERNAME/SmartDownloadsOrganizer.git](https://github.com/YOUR_USERNAME/SmartDownloadsOrganizer.git)
+git clone [https://github.com/MarwanOutrgua/SmartDownloadsOrganizer.git](https://github.com/MarwanOutrgua/SmartDownloadsOrganizer.git)
 cd SmartDownloadsOrganizer
 
 
@@ -69,7 +69,7 @@ SmartDownloadsOrganizer/
 │
 ├── assets/                      # Screenshots and demo images
 ├── README.md                    # Documentation
-└── requirements.txt             # Python dependencies
+
 
 
 🤝 Contributing
